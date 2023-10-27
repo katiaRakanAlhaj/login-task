@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "katia",
+      "email": "katia@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "rama",
+      "email": "rama@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "name": "Graham",
+      "email": "Gharam@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "name": "nour",
+      "email": "nour@gmail.com",
+      "password": "456789"
+    },
+    {
+      "id": 5,
+      "name": "rami",
+      "email": "rami@gmail.com",
+      "password": "456789"
+    }
+  ]
+}

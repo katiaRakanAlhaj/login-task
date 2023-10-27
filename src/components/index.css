@@ -1,0 +1,87 @@
+.container {
+  width: 600px;
+  height: 650px;
+  background-color: rgb(244, 240, 240);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  margin-top: 5rem;
+  padding: 2rem;
+}
+body {
+  display: flex;
+  justify-content: center;
+}
+.container form input {
+  width: 600px;
+  height: 40px;
+  margin-top: 0.3rem;
+  margin-bottom: 0.6rem;
+  border-radius: 5px;
+  outline: none;
+  border: 0;
+  padding-left: 0.5rem;
+}
+.container form input:focus {
+  outline: none;
+  border: 0;
+}
+.label {
+  font-weight: bold;
+}
+.send-button {
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+}
+.have-account {
+  color: black;
+  font-size: 20px;
+}
+.sign-container {
+  width: 600px;
+  height: 420px;
+  background-color: rgb(244, 240, 240);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  margin-top: 5rem;
+  padding: 2rem;
+}
+.sign-form input {
+  width: 600px;
+  height: 40px;
+  margin-top: 0.3rem;
+  margin-bottom: 0.6rem;
+  border-radius: 5px;
+  outline: none;
+  border: 0;
+  padding-left: 0.5rem;
+}
+.button {
+  width: 120px;
+  height: 30px;
+  cursor: pointer;
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+}
+p {
+  font-size: 18px;
+}
+.error {
+  font-size: 15px !important;
+  color: red;
+}
+.login-button {
+  width: 100px;
+  height: 40px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
