@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "name": "katia",
+      "email": "katiaalhaj54@gmail.com",
+      "password": "Password@123",
+      "confirmPassword": "Password@123",
+      "id": 1
+    },
+    {
+      "name": "Graham",
+      "email": "Gharam@gmail.com",
+      "password": "Password@123",
+      "confirmPassword": "Password@123",
+      "id": 2
+    }
+  ]
+}

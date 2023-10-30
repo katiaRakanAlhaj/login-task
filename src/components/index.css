@@ -1,0 +1,30 @@
+.error {
+  font-size: 15px !important;
+  color: red;
+}
+.background {
+  width: 70vh;
+  background-color: #00ff7f;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+hr {
+  width: 30px;
+  height: 4px;
+  background-color: white;
+  margin-bottom: 5px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+form input:focus {
+  outline: none;
+  border: solid 3px #00ff7f;
+}
